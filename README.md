@@ -15,8 +15,8 @@ A simple tool to gather system information, including CPU usage, memory usage, n
 
 You can use this tool directly from your command line. However, if you want to modify the code or add additional functionalities, you can follow these steps:
 
-1. Install Python from the official website: https://www.python.org/downloads/
-2. Clone this repository using the command `git clone https://github.com/username/System-Information-Tool.git`
+1. Make sure you have Python installed. If not, download and install it from [Python's official website](https://www.python.org/downloads/).
+2. Clone this repository using the command `git clone https://github.com/kippasaurr/Computer-Information.git`
 3. Open the command prompt or terminal and navigate to the repository directory.
 4. Install the `psutil` library by running the following command in your terminal or command prompt:
    ```bash
